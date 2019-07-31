@@ -135,5 +135,6 @@ sung : while( 조건문1 ){
   - 배열길이 : length
   - 문자열길이 : length()
 
-
-
+//접근한정자                //클래스종류
+[public/default]  [final/abstract] class Class-Name{
+}
